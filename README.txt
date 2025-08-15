@@ -1,0 +1,4 @@
+This project is a simple and user-friendly to-do list application that helps users organize their daily tasks efficiently. It allows users to add new tasks,
+ mark them as complete, edit or delete existing tasks, and view all items in their list. Each task can include important details such as priority, due dates,
+and categories for better organization. The intuitive interface ensures quick access and easy task management, whether for personal routines or work projects.
+With features like task filtering, search, and reminders, this to-do app makes managing responsibilities straightforward and keeps productivity on track.
